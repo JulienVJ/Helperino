@@ -8,7 +8,7 @@ Le but du Bot est de vous proposer un film en fonction de vos exigeances (année
 
 ## Ennoncé
 
-Attentes techniques
+Attentes techniques <br>
 Techniquement le projet va s’axer sur deux points importants : 
 La création du bot, avec plusieurs fonctionnalités lui permettant d’être agréable d’utilisation. Voici la liste des fonctionnalités que doit avoir le bot :
 -	Pouvoir faire une petite conversation afin de cibler le besoin de l’utilisateur
