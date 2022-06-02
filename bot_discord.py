@@ -178,4 +178,4 @@ async def on_message (message) :
         else :
             await message.channel.send(guess_table[number][2])
 #Relier le bot au discord où il est intégré
-client.run("OTc4MjI4OTAxMDIzMTg2OTY0.GVDnvh._RMIJwDqzwcJixUsjuXrAfM_mwHk9KsKoCA1EQ")
+client.run("token du Bot")
